@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Benben LIU, LSCM R&D Center, The University of Hong Kong"
+title                    : "Benben LIU (劉犇犇)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Benben Liu"
 description              : &description "personal description"
 url                      : https://liubenben.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Benben LIU (劉犇犇)"
+  name             : "Benben LIU"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Senior Researcher, LSCM R&D Center, The University of Hong Kong"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "liubenben"
   google_plus      :
   keybase          :
   instagram        :
