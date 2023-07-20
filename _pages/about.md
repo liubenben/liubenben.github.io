@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-I am a senior researcher at LSCM R&D Center, The University of Hong Kong. Prior to that, I was a Advisory Researcher at Lenovo Machine Intelligence Center, Hong Kong. I received my BSc. degree in Microelectronic from Fudan University, China, and Ph.D degree in Computer Engineering from [City University of Hong Kong](https://www.cityu.edu.hk/).
+I am a senior researcher at LSCM R&D Center, The University of Hong Kong. Prior to that, I was a Advisory Researcher at Lenovo Machine Intelligence Center, Hong Kong. I received my BSc. degree in [Microelectronic](https://sme.fudan.edu.cn/) from [Fudan University](https://www.fudan.edu.cn/), China, and Ph.D degree in [Computer Engineering](https://www.ee.cityu.edu.hk/) from [City University of Hong Kong](https://www.cityu.edu.hk/).
+
+I am interested in Cloud Computing, High Performance Computing, and Machine Learning. I design high performance and scalable machine learning system using a variety of techniques such as cloud, GPU, and FPGA.
 
 A data-driven personal website
 ======
