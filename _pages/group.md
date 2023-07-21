@@ -7,8 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
+Postdocs
+======
+* 
+* 
+*
 
-{% for post in site.group %}
-  {% include archive-single.html %}
-{% endfor %}
+Ph.D. Students
+======
+* 
+* 
+* 
 
+Alumni
+======
+* 
+* 
+* 
