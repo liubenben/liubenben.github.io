@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Senior Researcher
-LSCM R&D Center, The University of Hong Kong
-Level 11, Cyberport 2, 100 Cyberport Road, Hong Kong
+Senior Researcher  
+LSCM R&D Center, The University of Hong Kong  
+Level 11, Cyberport 2, 100 Cyberport Road, Hong Kong  
 benbenliu at hku.hk
 
 About me
