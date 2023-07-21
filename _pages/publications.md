@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Benben Liu**, ChiWai Yu, Doris Z Wang, Ray CC Cheung, Hong Yan
+*Design exploration of geometric biclustering for microarray data analysis in data mining*
+IEEE Transactions on Parallel and Distributed Systems, 2013
