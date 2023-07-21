@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -22,11 +16,13 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2018-2023: Advisory Researcher, Lenovo Machine Intelligence Center, Hong Kong
+
+Education
+======
+* Doctor of Philosophy in Computer Engineering, City University of Hong Kong, 2017
+* Bachelor of Science in Microelectronic, Fudan University, China, 2008
+
 Skills
 ======
 * Skill 1

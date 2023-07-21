@@ -12,8 +12,8 @@ main:
   - title: "Others"
     url: /others/
 
-  - title: "Group"
-    url: /group/
+  # - title: "Group"
+  #   url: /group/
         
   # - title: "Service"
   #   url: /service/
@@ -21,5 +21,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #   url: /contact/
