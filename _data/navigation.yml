@@ -12,8 +12,8 @@ main:
   - title: "Others"
     url: /others/
 
-  # - title: "Group"
-  #   url: /group/
+  - title: "Group"
+    url: /group/
         
   # - title: "Service"
   #   url: /service/
