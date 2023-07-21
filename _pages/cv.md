@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,12 +11,8 @@ redirect_from:
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* 2018-2023: Advisory Researcher, Lenovo Machine Intelligence Center, Hong Kong
+* 2023--Now: Senior Researcher, LSCM R&D Center, The University of Hong Kong
+* 2018--2023: Advisory Researcher, Lenovo Machine Intelligence Center, Hong Kong
 
 Education
 ======
