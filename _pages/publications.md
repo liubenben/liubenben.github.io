@@ -7,7 +7,7 @@ author_profile: true
 
 ## Book Chapters
 
-1. High-Performance and Customizable Bioinformatic and Biomedical Very-Large-Scale-Integration Architectures  
+1. [High-Performance and Customizable Bioinformatic and Biomedical Very-Large-Scale-Integration Architectures](https://www.taylorfrancis.com/chapters/edit/10.1201/b17635-10/high-performance-customizable-bioinformatic-biomedical-large-scale-integration-architectures-yao-xin-benben-liu-ray-cheung-chao-wang)  
 Yao Xin, **Benben Liu**, Ray CC Cheung, Chao Wang  
 *VLSI: Circuits for Emerging Applications, CRC Press, 2017*
 
