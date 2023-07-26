@@ -9,28 +9,28 @@ author_profile: true
 
 1. High-Performance and Customizable Bioinformatic and Biomedical Very-Large-Scale-Integration Architectures  
 Yao Xin, **Benben Liu**, Ray CC Cheung, Chao Wang  
-VLSI: Circuits for Emerging Applications
+*VLSI: Circuits for Emerging Applications, CRC Press, 2017*
 
 ## Journals
 
-1. FPGA-Based High-Performance Collision Detection: An Enabling Technique for Image-Guided Robotic Surgery  
+1. [FPGA-Based High-Performance Collision Detection: An Enabling Technique for Image-Guided Robotic Surgery](https://www.frontiersin.org/articles/10.3389/frobt.2016.00051/full)  
 Zhaorui Zhang, Yao Xin, **Benben Liu**, Will XY Li, Kit-Hang Lee, Chun-Fai Ng, Danail Stoyanov, Ray CC Cheung, Ka-Wai Kwok  
-Frontiers in Robotics and AI
+*Frontiers in Robotics and AI, vol. 3, pp. 51, August 2016*
 
 2. GPU-based biclustering for microarray data analysis in neurocomputing  
 **Benben Liu**, Yao Xin, Ray CC Cheung, Hong Yan  
-Neurocomputing
+*Neurocomputing*
 
 3. Design exploration of geometric biclustering for microarray data analysis in data mining  
 **Benben Liu**, ChiWai Yu, Doris Z Wang, Ray CC Cheung, Hong Yan  
-IEEE Transactions on Parallel and Distributed Systems (TPDS), 2013
+*IEEE Transactions on Parallel and Distributed Systems (TPDS), 2013*
 
 4. Parallel architecture for DNA sequence inexact matching with Burrows-Wheeler Transform  
 Yao Xin, **Benben Liu**, Biao Min, Will XY Li, Ray CC Cheung, Anthony S Fong, Ting Fung Chan  
-Microelectronics Journal (Microelectron. J.),
+*Microelectronics Journal, vol. 44, issue 8, pp. 670-682, August 2013*
 
 ## Conferences
 
 5. GPU-based biclustering for neural information processing  
 Alan WY Lo, **Benben Liu\***, Ray CC Cheung  
-19th International Conference on Neural Information Processing (ICONIP), 2012
+*19th International Conference on Neural Information Processing (ICONIP), 2012*
