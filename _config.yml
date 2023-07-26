@@ -85,10 +85,10 @@ author:
   bio              : "Senior Researcher, LSCM R&D Center, The University of Hong Kong"
   location         : "Hong Kong"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=g-_mATAAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Benben-Liu"
   uri              :
   bitbucket        :
   codepen          :
