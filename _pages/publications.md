@@ -35,10 +35,10 @@ Yao Xin, **Benben Liu**, Biao Min, Will XY Li, Ray CC Cheung, Anthony S Fong, Ti
 Alan WY Lo, **Benben Liu\***, Ray CC Cheung  
 *The 19th International Conference on Neural Information Processing (ICONIP), 2012*
 
-## thesis
+## Thesis
 
 1. Task Mapping Methodology for Heterogeneous Multicore System  
-Ph.D Thesis, City University of Hong Kong, Hong Kong, 2017
+*Ph.D Thesis, City University of Hong Kong, Hong Kong, 2017*
 
 2. An 80-dB DC-Gain 400MHz-GBW Folded-Cascode Operational Amplifier for Pipeline ADC in 0.13-μm CMOS  
-BSc. Thesis, Fudan University, Shanghai, 2008
+*BSc. Thesis, Fudan University, Shanghai, 2008*
