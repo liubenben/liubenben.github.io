@@ -21,13 +21,13 @@ Neurocomputing
 Microprocessors and Microsystems  
 
 * Conference Reviewer:
-Design Automation Conference (DAC)
-Design Automation and Test in Europe (DATE)
-The ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA)
-International Symposium on Industrial Electronics (ISIE)
-The IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM)
-The International Conference on Field-Programmable Logic and Applications (FPL)
-The International Conference on Field Programmable Technology (FPT)
+Design Automation Conference (DAC)  
+Design Automation and Test in Europe (DATE)  
+The ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA)  
+International Symposium on Industrial Electronics (ISIE)  
+The IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM)  
+The International Conference on Field-Programmable Logic and Applications (FPL)  
+The International Conference on Field Programmable Technology (FPT)  
 
 
 Honors and Awards
