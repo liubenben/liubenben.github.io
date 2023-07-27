@@ -12,11 +12,13 @@ redirect_from:
 Professional Experience
 ======
 * 2023--Now: Senior Researcher, LSCM R&D Center, The University of Hong Kong
-* 2018--2023: Advisory Researcher, Lenovo Machine Intelligence Center, Hong Kong
+* 2018--2023: Advisory Researcher, Lenovo Machine Intelligence Center, Hong Kong  
+*cloud computing, distributed computing, deep learning*
 
 Education
 ======
-* Doctor of Philosophy in Computer Engineering, City University of Hong Kong, 2017
+* Doctor of Philosophy in Computer Engineering, City University of Hong Kong, 2017  
+*heterogeneous multicore system, CUDA, machine learning*
 * University of Maryland, College Park, USA, 2009
 * Bachelor of Science in Microelectronic, Fudan University, China, 2008
 
