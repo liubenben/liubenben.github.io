@@ -20,7 +20,7 @@ Professional Services
 * Neurocomputing  
 * Microprocessors and Microsystems  
 
-2. Conference Reviewer:
+2. Conference Reviewer
 * Design Automation Conference (DAC)  
 * Design Automation and Test in Europe (DATE)  
 * The ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA)  
