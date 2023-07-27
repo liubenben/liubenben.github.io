@@ -51,6 +51,9 @@ Honors and Awards
   * 2004-2005, First Prize of People’s Scholarship - Samsung Scholarship (for top 1%)
   * 2004-2008, University-wide Excellent Students for 4 consecutive years (for top 5%)
 
+* [Samsung Intelligence Express](https://news.cctv.com/program/sxzlkc/20031021/100285.shtml)
+
+
 Talks
 ======
 
