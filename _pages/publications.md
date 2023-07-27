@@ -34,3 +34,11 @@ Yao Xin, **Benben Liu**, Biao Min, Will XY Li, Ray CC Cheung, Anthony S Fong, Ti
 5. [GPU-based biclustering for neural information processing](https://link.springer.com/chapter/10.1007/978-3-642-34500-5_17)  
 Alan WY Lo, **Benben Liu\***, Ray CC Cheung  
 *The 19th International Conference on Neural Information Processing (ICONIP), 2012*
+
+## thesis
+
+1. Task Mapping Methodology for Heterogeneous Multicore System  
+Ph.D Thesis, City University of Hong Kong, Hong Kong, 2017
+
+2. An 80-dB DC-Gain 400MHz-GBW Folded-Cascode Operational Amplifier for Pipeline ADC in 0.13-μm CMOS  
+BSc. Thesis, Fudan University, Shanghai, 2008
