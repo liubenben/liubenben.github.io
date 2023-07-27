@@ -11,23 +11,23 @@ author_profile: true
   
 Professional Services
 ======
-* Journal Reviewer  
-IEEE Transactions on Parallel and Distributed Systems (TPDS)  
-IEEE Transactions on Circuits and Systems I (TCAS-I)  
-IEEE Transactions on Computers (TC)  
-IEEE Transactions on Computer Aided Design of Integrated Circuits & Systems (TCAD)  
-Expert Systems with Applications  
-Neurocomputing  
-Microprocessors and Microsystems  
+1. Journal Reviewer  
+* IEEE Transactions on Parallel and Distributed Systems (TPDS)  
+* IEEE Transactions on Circuits and Systems I (TCAS-I)  
+* IEEE Transactions on Computers (TC)  
+* IEEE Transactions on Computer Aided Design of Integrated Circuits & Systems (TCAD)  
+* Expert Systems with Applications  
+* Neurocomputing  
+* Microprocessors and Microsystems  
 
-* Conference Reviewer:
-Design Automation Conference (DAC)  
-Design Automation and Test in Europe (DATE)  
-The ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA)  
-International Symposium on Industrial Electronics (ISIE)  
-The IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM)  
-The International Conference on Field-Programmable Logic and Applications (FPL)  
-The International Conference on Field Programmable Technology (FPT)  
+2. Conference Reviewer:
+* Design Automation Conference (DAC)  
+* Design Automation and Test in Europe (DATE)  
+* The ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA)  
+* International Symposium on Industrial Electronics (ISIE)  
+* The IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM)  
+* The International Conference on Field-Programmable Logic and Applications (FPL)  
+* The International Conference on Field Programmable Technology (FPT)  
 
 
 Honors and Awards
