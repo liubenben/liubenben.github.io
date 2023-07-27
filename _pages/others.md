@@ -8,25 +8,17 @@ author_profile: true
 ---
 
 {% include base_path %}
+  
+Professional Services
+======
+* Reviewer: IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Circuits and Systems I, IEEE Transactions on Computers, Design Automation Conference, Expert Systems with Applications, Neurocomputing, etc.
 
-Honors
+Honors and Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Services
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
 
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <!-- <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
