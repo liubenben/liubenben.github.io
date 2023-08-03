@@ -40,5 +40,5 @@ Alan WY Lo, **Benben Liu\***, Ray CC Cheung
 1. Task Mapping Methodology for Heterogeneous Multicore System  
 *Ph.D Thesis, City University of Hong Kong, Hong Kong, 2017*
 
-2. An 80-dB DC-Gain 400MHz-GBW Folded-Cascode Operational Amplifier for Pipeline ADC in 0.13-μm CMOS  
+2. An 80-dB DC-Gain 400MHz-GBW Folded-Cascode Operational Amplifier for Pipeline ADC in 0.13-μm CMOS (in Chinese)  
 *BSc. Thesis, Fudan University, Shanghai, 2008*
