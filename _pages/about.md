@@ -18,6 +18,7 @@ Level 11, Cyberport 2, 100 Cyberport Road, Hong Kong
 Department of Computing, Hong Kong Polytechnic University  
 Hung Hom, Hong Kong  
 
+Office: 1106-08
 Email: benbenliu@hku.hk
 
 About me
