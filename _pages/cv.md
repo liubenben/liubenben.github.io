@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
+Professional Experience
+======
+* 2023--Now: Senior Researcher, LSCM R&D Center, The University of Hong Kong
+* 2018--2023: Advisory Researcher, Lenovo Machine Intelligence Center, Hong Kong  
+*cloud computing, distributed computing, deep learning*
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Doctor of Philosophy in Computer Engineering, City University of Hong Kong, 2017  
+*heterogeneous multicore system, CUDA, machine learning*
+* University of Maryland, College Park, USA, 2009
+* Bachelor of Science in Microelectronic, Fudan University, China, 2008
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
